@@ -1,6 +1,5 @@
 # Dotfiles
 
-### This repository contains the dotfiles that i use.
 ## <b> Installation </b> 
 1. Install Apple's Command Line Tools, which are prerequisites for Git and Homebrew.
 
