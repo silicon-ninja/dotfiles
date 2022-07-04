@@ -27,15 +27,24 @@ alias cdned="~/projects/nerd_stuff/"
 alias cdram="~/projects/ramaiah_projects/"
 
 
+
 # Operations 
 alias op="open ~/projects"
 alias pop="open ."
 alias lsh="exa --icons -l -g"
+alias vs="code-insiders ."
+alias vsc="code-insiders"
+alias goair="~/go/bin/air"
+alias to_json="pp_json"
+alias vszsh="code-insiders ~/.zshrc"
+alias f="fzf"
+
 
 
 # ************** My Config from @silicon-ninja ************************
 
 eval "$(starship init zsh)"
 export PATH="$PATH:/Users/srikanthkandarp/dev_sdk/flutter/bin"
+
 
 
