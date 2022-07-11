@@ -67,7 +67,7 @@ export BUN_INSTALL="/Users/srikanthkandarp/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
 
-# ************** My Custom Funtions from @silicon-ninja ************************
+# ************** My Custom Functions from @silicon-ninja ************************
 
 remove_single_torrent () {
     transmission-remote -t $1 -r
